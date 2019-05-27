@@ -13,7 +13,7 @@ Returns:
 Notes:
     This program will use longs as variables, and will malfunction when numbers 
     grow to be bigger than 8 bytes (19 places).
-    The console will be used to set N, f0, and F1;
+    The console will be used to set N, f0, and F1; make and edit
     **************************************************************************/
 
 /*
